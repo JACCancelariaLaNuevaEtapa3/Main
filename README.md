@@ -1,8 +1,9 @@
   
 
-# JUNTA DE ACCION COMUNAL  
-Candelaria La Nueva Etapa 3
-
+# J.A.C. Candelaria La Nueva Etapa 3
+  
+Este sitio ha sido diseñado para pulicar información de provecho para la vecindad.
+  
 <ul class="actions">
   <li><a href="#zero" class="button scrolly">Afiliación y desafiliación</a></li>
   <li><a href="#one" class="button scrolly">Documentos</a></li>
