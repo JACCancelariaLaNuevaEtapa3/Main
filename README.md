@@ -1,7 +1,7 @@
  
 ## J.A.C. Candelaria La Nueva Etapa 3
   
-Este sitio ha sido diseñado para pulicar información de provecho para la vecindad.
+Este sitio ha sido diseñado para publicar información de interés para la comunidad.
   
 <ul class="actions">
   <li><a href="#zero" class="button scrolly">Afiliación y desafiliación</a></li>
@@ -33,7 +33,7 @@ Este sitio ha sido diseñado para pulicar información de provecho para la vecin
 #### Ubicación:
   
 ```markdown
-Calle 62 a Sur # 73c - 21  
+Diagonal 67 con transversal 56 sur
 Bogota (Colombia)  
 ```
 [Ver en Google Maps](https://goo.gl/maps/432up4234rPQ5o3G8)  
