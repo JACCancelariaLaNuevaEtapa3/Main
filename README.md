@@ -1,6 +1,5 @@
-  
-
-# J.A.C. Candelaria La Nueva Etapa 3
+ 
+## J.A.C. Candelaria La Nueva Etapa 3
   
 Este sitio ha sido diseñado para pulicar información de provecho para la vecindad.
   
@@ -17,16 +16,16 @@ Este sitio ha sido diseñado para pulicar información de provecho para la vecin
 3. Reuniones
 4. Reglamentación
 
-**[Canal de Youtube](https://www.youtube.com/channel/UCmVX4zrxCtDMPDJJj-t0M-Q/)**  
+**[Canal de Youtube en construcción](https://www.youtube.com/)**  
 
 ### Noticias
   
-###### Proximamente
+###### Proximamente 
   
   
-### Proximos eventos  
+### Próximos eventos  
   
-- Asamblea Ordinaria de Copropietarios 2020 (**19 de Abril de 2020**) [Mas Info](?)
+- Asamblea Ordinaria de Afiliados 2023 (**23 de Abril de 2020**) [Mas Info](?)
   
   
 ### Información de Contacto
