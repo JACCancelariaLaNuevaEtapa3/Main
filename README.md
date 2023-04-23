@@ -1,7 +1,7 @@
   
 
 # JUNTA DE ACCION COMUNAL  
-## Candelaria La Nueva Etapa 3
+Candelaria La Nueva Etapa 3
 
 <ul class="actions">
   <li><a href="#zero" class="button scrolly">Afiliación y desafiliación</a></li>
@@ -20,18 +20,14 @@
 
 ### Noticias
   
-##### Marzo 2020  
-- Se encuentra abierta convocatoria para Revisor Fiscal [Mas info](http://www.computrabajo.com)
-- Se encuentra abierta convocatoria para Administrador [Mas info](?)
+###### Proximamente
   
-##### Octubre 2019  
-- Finalización de la impermeabilización (la administración estará tramitaando las intervenciones de los patios en los primeros pisos).
   
 ### Proximos eventos  
   
 - Asamblea Ordinaria de Copropietarios 2020 (**19 de Abril de 2020**) [Mas Info](?)
-
-
+  
+  
 ### Información de Contacto
   
 #### Ubicación:
@@ -42,7 +38,7 @@ Bogota (Colombia)
 ```
 [Ver en Google Maps](https://goo.gl/maps/432up4234rPQ5o3G8)  
 
-#### Horario de Atención de Administración:
+#### Horario de Atención en Secretaría:
   
 Lunes a Viernes de 5pm a 8pm  
 Sábados de 8am a 12m  
