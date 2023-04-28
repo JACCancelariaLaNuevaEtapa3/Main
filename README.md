@@ -9,6 +9,8 @@ Este sitio ha sido diseñado para publicar información de interés para la comu
  - [Noticias](#noticias)
  - [Eventos](#eventos)
   
+  
+  
 ### Sobre la Junta
   
 1. [Estatutos](https://archive.org/download/estatutos-JAC-CandelariaEtapa3/ESTATUTOS_APROBADOS.pdf)
@@ -16,6 +18,7 @@ Este sitio ha sido diseñado para publicar información de interés para la comu
 3. Actas
 4. Reuniones
 5. [Información de Contacto](#información-de-contacto)
+  
   
   
 #### Afiliacion y Retiro
@@ -26,9 +29,11 @@ Para afiliarse a la Junta de Acción Comunal del barrio Candelaria La Nueva - Et
 - Documento 2
   
   
+  
 #### Noticias 
   
 ##### Proximamente 
+  
   
   
 #### Eventos  
@@ -41,6 +46,7 @@ Para afiliarse a la Junta de Acción Comunal del barrio Candelaria La Nueva - Et
 
 **[Canal de Youtube en construcción](https://www.youtube.com/)**  
   
+    
     
 #### Información de Contacto
   
@@ -57,6 +63,7 @@ Bogota (Colombia)
 Lunes a Viernes de 5pm a 8pm  
 Sábados de 8am a 12m  
 [Enviar correo](mailto:jaccandelariaetapa3@hotmail.com)  
+  
   
   
 CopyRight
