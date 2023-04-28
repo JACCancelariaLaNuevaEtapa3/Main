@@ -6,7 +6,7 @@ Este sitio ha sido diseñado para publicar información de interés para la comu
 <ul class="actions">
   <li><a href="#zero" class="button scrolly">Afiliación y desafiliación</a></li>
   <li><a href="#one" class="button scrolly">Documentos</a></li>
-  <li><a href="#two" class="button scrolly">Noticias</a></li>
+  <li><a href="#Noticias">Noticias</a></li>
 </ul>
 
 ### Sobre la Junta
@@ -18,7 +18,7 @@ Este sitio ha sido diseñado para publicar información de interés para la comu
 
 **[Canal de Youtube en construcción](https://www.youtube.com/)**  
 
-### Noticias
+### <p id="Noticias">Noticias</p> 
   
 ###### Proximamente 
   
