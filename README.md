@@ -11,10 +11,10 @@ Este sitio ha sido diseñado para publicar información de interés para la comu
 
 ### Sobre la Junta
   
-1. Estatutos
-2. Actas
-3. Reuniones
-4. Reglamentación
+1. [Estatutos](ESTATUTOS_APROBADOS)
+2. Reglamentación
+3. Actas
+4. Reuniones
 
 **[Canal de Youtube en construcción](https://www.youtube.com/)**  
 
