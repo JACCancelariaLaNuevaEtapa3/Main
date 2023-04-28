@@ -4,7 +4,7 @@
 Este sitio ha sido diseñado para publicar información de interés para la comunidad.
   
 <ul class="actions">
-  <li><a href="#zero" class="button scrolly">Afiliación y desafiliación</a></li>
+  <li>[Afiliación y desafiliación][1]</li>
   <li><a href="#one" class="button scrolly">Documentos</a></li>
   <li><a href="#Noticias">Noticias</a></li>
 </ul>
@@ -17,6 +17,13 @@ Este sitio ha sido diseñado para publicar información de interés para la comu
 4. Reuniones
 
 **[Canal de Youtube en construcción](https://www.youtube.com/)**  
+
+### [1]:Afiliación y Desafiliación
+
+Para afiliarse a la Junta de Acción Comunal del barrio Candelaria La Nueva - Etapa 3 debe reunir los siguientes elementos:
+
+- Documento 1
+- Ducomento 2
 
 ### Noticias 
   
