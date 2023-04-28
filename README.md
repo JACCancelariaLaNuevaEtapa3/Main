@@ -11,7 +11,7 @@ Este sitio ha sido diseñado para publicar información de interés para la comu
 
 ### Sobre la Junta
   
-1. [Estatutos](https://archive.org/details/estatutos-JAC-CandelariaEtapa3)
+1. [Estatutos](https://archive.org/download/estatutos-JAC-CandelariaEtapa3/ESTATUTOS_APROBADOS.pdf)
 2. Reglamentación
 3. Actas
 4. Reuniones
