@@ -1,10 +1,12 @@
- 
+   
 ## J.A.C. Candelaria La Nueva Etapa 3
   
 Este sitio ha sido diseñado para publicar información de interés para la comunidad.
+   
+### Para la Comunidad
   
 <ul class="actions">
-  <li>[Afiliación y desafiliación][1]</li>
+ - [Afiliación y desafiliación](#afiliacion-y-desafiliacion)
   <li><a href="#one" class="button scrolly">Documentos</a></li>
   <li><a href="#Noticias">Noticias</a></li>
 </ul>
@@ -15,19 +17,20 @@ Este sitio ha sido diseñado para publicar información de interés para la comu
 2. [Legislación - Ley 2166 de 2021](https://archive.org/download/ley-2166-del-18-de-diciembre-de-2021-nueva-ley-comunal/LEY%202166%20del%2018%20de%20diciembre%20de%202021%20-%20NUEVA%20LEY%20COMUNAL.pdf)
 3. Actas
 4. Reuniones
+5. Información de Contacto
 
 **[Canal de Youtube en construcción](https://www.youtube.com/)**  
 
-### [1]:Afiliación y Desafiliación
+#### Afiliacion y Desafiliacion
 
 Para afiliarse a la Junta de Acción Comunal del barrio Candelaria La Nueva - Etapa 3 debe reunir los siguientes elementos:
 
 - Documento 1
-- Ducomento 2
+- Documento 2
 
-### Noticias 
+#### Noticias 
   
-###### Proximamente 
+##### Proximamente 
   
   
 ### Próximos eventos  
@@ -51,9 +54,6 @@ Lunes a Viernes de 5pm a 8pm
 Sábados de 8am a 12m  
 [Enviar correo](mailto:jaccandelariaetapa3@hotmail.com)  
   
-
-#### Comentarios
-
 
 
 CopyRight
