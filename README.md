@@ -5,10 +5,11 @@ Este sitio ha sido diseñado para publicar información de interés para la comu
    
 ### Para la Comunidad
   
-<ul class="actions">
  - [Afiliación y desafiliación](#afiliacion-y-desafiliacion)
+<ul class="actions">
   <li><a href="#one" class="button scrolly">Documentos</a></li>
   <li><a href="#Noticias">Noticias</a></li>
+   <li><a href="#Noticias">Actividades</a></li>
 </ul>
 
 ### Sobre la Junta
@@ -18,7 +19,8 @@ Este sitio ha sido diseñado para publicar información de interés para la comu
 3. Actas
 4. Reuniones
 5. Información de Contacto
-
+  
+  
 **[Canal de Youtube en construcción](https://www.youtube.com/)**  
 
 #### Afiliacion y Desafiliacion
