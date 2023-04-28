@@ -1,9 +1,9 @@
    
-## J.A.C. Candelaria La Nueva Etapa 3
+# J.A.C. Candelaria La Nueva Etapa 3
   
 Este sitio ha sido diseñado para publicar información de interés para la comunidad.
    
-### Para la Comunidad
+## Para la Comunidad
   
  - [Afiliación y Retiro](#afiliacion-y-retiro)
  - [Noticias](#noticias)
@@ -11,7 +11,7 @@ Este sitio ha sido diseñado para publicar información de interés para la comu
   
   
   
-### Sobre la Junta
+## Sobre la Junta
   
 1. [Estatutos](https://archive.org/download/estatutos-JAC-CandelariaEtapa3/ESTATUTOS_APROBADOS.pdf)
 2. [Legislación - Ley 2166 de 2021](https://archive.org/download/ley-2166-del-18-de-diciembre-de-2021-nueva-ley-comunal/LEY%202166%20del%2018%20de%20diciembre%20de%202021%20-%20NUEVA%20LEY%20COMUNAL.pdf)
@@ -20,6 +20,13 @@ Este sitio ha sido diseñado para publicar información de interés para la comu
 5. [Información de Contacto](#información-de-contacto)
   
   
+  
+  
+  
+ 
+ 
+  
+## Para la Comunidad
   
 #### Afiliacion y Retiro
   
@@ -30,24 +37,36 @@ Para afiliarse a la Junta de Acción Comunal del barrio Candelaria La Nueva - Et
   
   
   
+  
 #### Noticias 
   
 ##### Proximamente 
   
   
   
+  
 #### Eventos  
+  
   
 ##### Próximos Eventos
   
 - Asamblea Ordinaria de Afiliados 2023 (**XXXX**) [Mas Info](?)
-
+  
+  
 ##### Eventos Pasados
 
 **[Canal de Youtube en construcción](https://www.youtube.com/)**  
   
-    
-    
+  
+  
+  
+  
+  
+  
+  
+## Sobre la Junta
+  
+  
 #### Información de Contacto
   
 ##### Ubicación:
