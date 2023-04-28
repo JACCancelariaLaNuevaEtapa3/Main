@@ -18,7 +18,7 @@ Este sitio ha sido diseñado para publicar información de interés para la comu
 
 **[Canal de Youtube en construcción](https://www.youtube.com/)**  
 
-### <p id="Noticias">Noticias</p> 
+### Noticias 
   
 ###### Proximamente 
   
