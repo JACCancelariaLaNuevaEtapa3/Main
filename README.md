@@ -17,7 +17,8 @@ Este sitio ha sido diseñado para publicar información de interés para la comu
 2. [Legislación - Ley 2166 de 2021](https://archive.org/download/ley-2166-del-18-de-diciembre-de-2021-nueva-ley-comunal/LEY%202166%20del%2018%20de%20diciembre%20de%202021%20-%20NUEVA%20LEY%20COMUNAL.pdf)
 3. Actas
 4. Reuniones
-5. [Información de Contacto](#información-de-contacto)
+5. [Otros documentos](https://1drv.ms/f/s!Al7PAZcTBwHScWAI3FQhiYMIc6U?e=i7hH8H)
+6. [Información de Contacto](#información-de-contacto)
   
   
   
