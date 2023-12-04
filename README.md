@@ -81,7 +81,8 @@ Bogota (Colombia)
 [Ver en Google Maps](https://goo.gl/maps/432up4234rPQ5o3G8)  
   
 ##### Horario de Atención en Secretaría:
- 
+
+Puede contactarse con los integrantes de la junta para atenderlo.
 [Enviar correo](mailto:jaccandelariaetapa3@hotmail.com)  
   
   
