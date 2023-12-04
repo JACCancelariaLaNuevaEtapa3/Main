@@ -31,10 +31,12 @@ Este sitio ha sido diseñado para publicar información de interés para la comu
   
 #### Afiliacion y Retiro
   
-Para afiliarse a la Junta de Acción Comunal del barrio Candelaria La Nueva - Etapa 3 debe reunir los siguientes elementos:
-  
-- Documento 1
-- Documento 2
+Para afiliarse a la Junta de Acción Comunal debe:
+   1. Dirigirse a la opción 5. Otros documentos de esta página.
+   2. Allí encontrará una carpeta de nombre "Documentos solicitud de afiliación o retiro" donde debe descargar los documentos para el trámite que desea realizar.
+   3. Diligencie los documentos, imprimalos y entreguelos a la secretaria o la presidencia de la Junta.
+   4. Posteriormente le brindaremos el resultado de su solicitud.
+
   
   
   
@@ -79,9 +81,7 @@ Bogota (Colombia)
 [Ver en Google Maps](https://goo.gl/maps/432up4234rPQ5o3G8)  
   
 ##### Horario de Atención en Secretaría:
-  
-Lunes a Viernes de 5pm a 8pm  
-Sábados de 8am a 12m  
+ 
 [Enviar correo](mailto:jaccandelariaetapa3@hotmail.com)  
   
   
