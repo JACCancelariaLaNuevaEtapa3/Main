@@ -13,7 +13,7 @@ Este sitio ha sido diseñado para publicar información de interés para la comu
   
 ## Sobre la Junta
   
-1. [Estatutos](https://archive.org/download/estatutos-JAC-CandelariaEtapa3/ESTATUTOS_APROBADOS.pdf)
+1. [Estatutos](https://ia902201.us.archive.org/10/items/estatutos-con-reforma-2024-ley-2166/ESTATUTOS%20CON%20REFORMA%202024%20-%20LEY%202166.pdf)
 2. [Legislación - Ley 2166 de 2021](https://archive.org/download/ley-2166-del-18-de-diciembre-de-2021-nueva-ley-comunal/LEY%202166%20del%2018%20de%20diciembre%20de%202021%20-%20NUEVA%20LEY%20COMUNAL.pdf)
 3. Actas
 4. Reuniones
